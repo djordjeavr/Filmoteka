@@ -1,0 +1,72 @@
+.card{
+    margin: 10px;
+    float: left;
+    }
+#addFilm{
+    clear: both;
+    margin-top: 50px;
+    width: 100%;
+}
+input{
+    display: block;
+    width: 70%;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(169, 169, 169);;
+    outline: none;
+}
+select{
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    outline: none;
+    width: 100px;
+    
+
+}
+textarea{
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    outline: none;
+}
+
+button{
+    margin-bottom: 20px;
+    margin-left: 30px;
+    outline: none;
+    width: 80px;
+    background-color: #4a4646;
+    color: white;
+    border: none;
+}
+button:hover{
+    background-color: #333131;
+}
+#footer{
+    width: 100%;
+    background-color: #4a4646;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 22px;
+
+}
+#footer p{
+    margin: 0;
+}
+.navbar{
+    height: 70px;
+    
+
+}
+.mr-sm-2{
+   margin-bottom: 3px;
+}
+.navbar-brand{
+    font-size: 32px;
+}
+.btn{
+    margin-bottom: 5px;
+}
